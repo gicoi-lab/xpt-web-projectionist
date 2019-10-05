@@ -1,0 +1,22 @@
+{
+  "name": "xpt-web-projectionist",
+  "main": "xpt-web-projectionist.js",
+  "authors": [
+    "JunYuan Yan <jyyan.tw@gmail.com>"
+  ],
+  "description": "web projectionist for check device high DPI setting and update HTML root element font-size or more",
+  "keywords": [
+    "DPI checker",
+    "web",
+    "loading"
+  ],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
